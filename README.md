@@ -15,6 +15,8 @@ This repository contains a collection of Jupyter Notebook tutorial codes aimed a
 
 4. [Simple Neural Network (MLP) in Keras](Simple_neural_network(mlp)_in_keras.ipynb)
     - Description: This Jupyter Notebook guides you through creating a basic Multi-Layer Perceptron (MLP) neural network using the Keras framework.
+5. [Transfer Learning - Part 1](Transfer_learning_part1.ipynb)
+    - Description: In this notebook, we will explore the approach of Transfer Learning, specifically utilizing a pre-trained model as a feature extractor. This technique involves leveraging a pre-existing neural network to extract valuable features from data, enhancing the efficiency and performance of our machine learning or deep learning models.
 
 ## Getting Started
 
