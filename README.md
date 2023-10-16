@@ -17,6 +17,9 @@ This repository contains a collection of Jupyter Notebook tutorial codes aimed a
     - Description: This Jupyter Notebook guides you through creating a basic Multi-Layer Perceptron (MLP) neural network using the Keras framework.
 5. [Transfer Learning - Part 1](Transfer_learning_part1.ipynb)
     - Description: In this notebook, we will explore the approach of Transfer Learning, specifically utilizing a pre-trained model as a feature extractor. This technique involves leveraging a pre-existing neural network to extract valuable features from data, enhancing the efficiency and performance of our machine learning or deep learning models.
+6. [Transfer Learning - Part 2](Transfer_learning_part2_and_Fine_tuning.ipynb)
+    - Description: In this notebook, we will explore the concept of Fine Tuning and its application to our model. Fine Tuning involves making further adjustments and refinements to the model to enhance its performance and adapt it to specific tasks or data.
+
 
 ## Getting Started
 
