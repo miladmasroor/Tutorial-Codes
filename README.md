@@ -1,4 +1,4 @@
-# Tutorial Codes
+# Tutorial Codes (I instructed graduate and undergraduate students in Python programming at the University of Tehran from April to June 2022)
 
 This repository contains a collection of Jupyter Notebook tutorial codes aimed at providing hands-on learning experiences in various areas of machine learning, deep learning, and data analysis. Each Jupyter Notebook explores a specific topic, allowing you to run and experiment with the code while understanding the underlying concepts.
 
@@ -19,7 +19,8 @@ This repository contains a collection of Jupyter Notebook tutorial codes aimed a
     - Description: In this notebook, we will explore the approach of Transfer Learning, specifically utilizing a pre-trained model as a feature extractor. This technique involves leveraging a pre-existing neural network to extract valuable features from data, enhancing the efficiency and performance of our machine learning or deep learning models.
 6. [Transfer Learning - Part 2](Transfer_learning_part2_and_Fine_tuning.ipynb)
     - Description: In this notebook, we will explore the concept of Fine Tuning and its application to our model. Fine Tuning involves making further adjustments and refinements to the model to enhance its performance and adapt it to specific tasks or data.
-
+7. [Fashion-MNIST-Classification-with-TensorFlow-and-Keras.ipynb)
+    - Description: This Python code is an implementation of a deep learning model for classifying images from the Fashion MNIST dataset using TensorFlow and Keras. The Fashion MNIST dataset contains grayscale images of various clothing items, each belonging to one of ten classes.
 
 ## Getting Started
 
