@@ -25,10 +25,5 @@ This repository contains a collection of Jupyter Notebook tutorial codes aimed a
     - Description: This Python code is an implementation of a deep learning model for classifying images from the Fashion MNIST dataset using TensorFlow and Keras. The Fashion MNIST dataset contains grayscale images of various clothing items, each belonging to one of ten classes.
 8. [K-Means Clustering on Diverse Synthetic Data](K-Means-Clustering-on-Diverse-Synthetic-Data.ipynb)
     - Description: This Python code uses the scikit-learn library to perform K-Means clustering on various synthetic datasets. It generates different types of data, including circles, moons, blobs, random points, and anisotropic (elongated) clusters, and then applies K-Means clustering to find distinct clusters within each dataset. The code also plots the resulting cluster assignments and cluster centers, as well as the inertia values for different numbers of clusters to help determine the optimal cluster count.
-
-## Getting Started
-
-- Clone this repository to your local machine to access the Jupyter Notebook files.
-
-```shell
-git clone <repository_url>
+9. [Weather forecasting](Time-series-forecasting(weather-forecasting).ipynb)
+    - Description: This tutorial is an introduction to time series forecasting using TensorFlow. It builds a few different styles of models including Convolutional and Recurrent Neural Networks (CNNs and RNNs).
