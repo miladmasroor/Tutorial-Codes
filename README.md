@@ -1,5 +1,7 @@
 # Tutorial Codes (I instructed graduate and undergraduate students in Python programming at the University of Tehran from April to June 2022)
 
+**From April to June 2022, I had the privilege of serving as an instructor at the University of Tehran, where I provided valuable guidance to both graduate and undergraduate students in the field of Python programming. My role involved empowering students to develop machine learning and deep learning techniques, facilitating their growth and proficiency in these critical areas of study.**
+
 This repository contains a collection of Jupyter Notebook tutorial codes aimed at providing hands-on learning experiences in various areas of machine learning, deep learning, and data analysis. Each Jupyter Notebook explores a specific topic, allowing you to run and experiment with the code while understanding the underlying concepts.
 
 ## Table of Contents
