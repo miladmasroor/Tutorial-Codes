@@ -21,6 +21,8 @@ This repository contains a collection of Jupyter Notebook tutorial codes aimed a
     - Description: In this notebook, we will explore the concept of Fine Tuning and its application to our model. Fine Tuning involves making further adjustments and refinements to the model to enhance its performance and adapt it to specific tasks or data.
 7. [Fashion MNIST Classification with TensorFlow and Keras](Fashion-MNIST-Classification-with-TensorFlow-and-Keras.ipynb)
     - Description: This Python code is an implementation of a deep learning model for classifying images from the Fashion MNIST dataset using TensorFlow and Keras. The Fashion MNIST dataset contains grayscale images of various clothing items, each belonging to one of ten classes.
+8. [K-Means Clustering on Diverse Synthetic Data](K-Means-Clustering-on-Diverse-Synthetic-Data.ipynb)
+    - Description: This Python code uses the scikit-learn library to perform K-Means clustering on various synthetic datasets. It generates different types of data, including circles, moons, blobs, random points, and anisotropic (elongated) clusters, and then applies K-Means clustering to find distinct clusters within each dataset. The code also plots the resulting cluster assignments and cluster centers, as well as the inertia values for different numbers of clusters to help determine the optimal cluster count.
 
 ## Getting Started
 
